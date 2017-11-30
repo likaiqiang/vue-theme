@@ -1,8 +1,9 @@
-# test
+# 基于vue-loader的CSS Modules功能实现的网站主题色切换方案（一种思路）
 
 > A Vue.js project
 
 ## Build Setup
+
 
 ``` bash
 # install dependencies
